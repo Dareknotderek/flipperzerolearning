@@ -1,3 +1,5 @@
+REM This is my first rubber ducky, executing a rick roll on the target computer
+
 DELAY 1000
 GUI r
 DELAY 500
