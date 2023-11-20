@@ -1,4 +1,8 @@
-REM This is my first rubber ducky, executing a rick roll on the target computer
+REM Title: RickRoll Ducky
+REM Description: Opens default browser, enters YouTube link - certainly not new but a fun one to learn
+REM Target:	Windows
+REM Version:	1.0
+REM Category:	Prank
 
 DELAY 1000
 GUI r
