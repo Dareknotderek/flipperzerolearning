@@ -1,0 +1,16 @@
+REM Title: Space Bat Awareness Ducky
+REM Description: Opens default browser, enters space bat know your meme link, ends at prank disclosure - not new but a fun one to modify
+REM Target:	Windows
+REM Version:	1.0
+REM Category:	Prank
+
+DELAY 1000
+GUI r
+DELAY 500
+STRING https://knowyourmeme.com/memes/events/space-bat
+ENTER
+DELAY 5000 
+GUI r 
+DELAY 500
+STRING https://github.com/Dareknotderek/flipperzerolearning/blob/main/badUSB/README.md
+ENTER
