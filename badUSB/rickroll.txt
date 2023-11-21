@@ -1,5 +1,5 @@
 REM Title: RickRoll Ducky
-REM Description: Opens default browser, enters YouTube link - certainly not new but a fun one to learn
+REM Description: Opens default browser, enters YouTube link, opens new browser and ends at prank disclosure - certainly not new but a fun one to learn
 REM Target:	Windows
 REM Version:	1.0
 REM Category:	Prank
@@ -8,4 +8,9 @@ DELAY 1000
 GUI r
 DELAY 500
 STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
+ENTER
+DELAY 5000 
+GUI r 
+DELAY 500
+STRING https://github.com/Dareknotderek/flipperzerolearning/blob/main/badUSB/README.md
 ENTER
