@@ -1,0 +1,16 @@
+REM Title: Site Ducky Template
+REM Description: Opens default browser, enters link for website you'd like to go to, opens new browser and ends at dareknotderek prank disclosure
+REM Target:	Windows
+REM Version:	1.0
+REM Category:	Prank
+
+DELAY 1000
+GUI r
+DELAY 500
+REM type `STRING [the url of where you'd like it to go]`
+ENTER
+DELAY 5000 
+GUI r 
+DELAY 500
+STRING https://github.com/Dareknotderek/flipperzerolearning/blob/main/badUSB/README.md
+ENTER
